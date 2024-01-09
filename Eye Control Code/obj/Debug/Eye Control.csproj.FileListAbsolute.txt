@@ -1,0 +1,23 @@
+C:\Projects\Eye Control\bin\Debug\Task_5.exe.config
+C:\Projects\Eye Control\bin\Debug\Task_5.exe
+C:\Projects\Eye Control\bin\Debug\Task_5.pdb
+C:\Projects\Eye Control\obj\Debug\Eye Control.csproj.AssemblyReference.cache
+C:\Projects\Eye Control\obj\Debug\Eye Control.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Eye Control\obj\Debug\Task_6.Form1.resources
+C:\Projects\Eye Control\obj\Debug\Task_5.Properties.Resources.resources
+C:\Projects\Eye Control\obj\Debug\Eye Control.csproj.GenerateResource.cache
+C:\Projects\Eye Control\obj\Debug\Eye Control.csproj.CoreCompileInputs.cache
+C:\Projects\Eye Control\obj\Debug\Task_5.exe
+C:\Projects\Eye Control\obj\Debug\Task_5.pdb
+C:\Projects\+\Eye Control\bin\Debug\Task_5.exe.config
+C:\Projects\+\Eye Control\bin\Debug\Task_5.exe
+C:\Projects\+\Eye Control\bin\Debug\Task_5.pdb
+C:\Projects\+\Eye Control\obj\Debug\Eye Control.csproj.AssemblyReference.cache
+C:\Projects\+\Eye Control\obj\Debug\Eye Control.csproj.SuggestedBindingRedirects.cache
+C:\Projects\+\Eye Control\obj\Debug\Task_6.Form1.resources
+C:\Projects\+\Eye Control\obj\Debug\Task_5.Properties.Resources.resources
+C:\Projects\+\Eye Control\obj\Debug\Eye Control.csproj.GenerateResource.cache
+C:\Projects\+\Eye Control\obj\Debug\Eye Control.csproj.CoreCompileInputs.cache
+C:\Projects\+\Eye Control\obj\Debug\Task_5.exe
+C:\Projects\+\Eye Control\obj\Debug\Task_5.pdb
+C:\Projects\+\Eye Control\obj\Debug\Task_5.Form2.resources
